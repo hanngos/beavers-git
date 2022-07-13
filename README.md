@@ -1,1 +1,22 @@
-# beavers-git
+# Git Tutorial for Beavers
+
+## Mentorzy
+|  Mentor  |                                                                                                                       Zespół                                                                                                                        |
+|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Hania   |                                                                                <img src="https://jackyzhen.github.io/rust-vs-go-slides/strongGopher.png" width="200">                                                                                | 
+|   Mati   |      <img src="https://www.al.com/resizer/x0sDT9S7MVuLoZdAckv4GYrEay8=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.al.com/home/bama-media/width2048/img/entertainment_impact/photo/22643993-large.jpg" width="200">      |
+
+>## Zadania:
+>1. Forking workflow
+>2. PRka
+>3. Konflikty 
+>4. Rebase 
+>5. May the force be with you (-f) + git log
+
+## Bobry 🦫🦫🦫🦫🦫🦫
+<img src="https://i.gifer.com/IHh.gif" width="300">
+
+
+## **Raccoons 🦝🦝**
+![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
+![](https://i.pinimg.com/736x/7c/14/ae/7c14ae9a7164c6db3ba85ef8abf7a9c4.jpg)
