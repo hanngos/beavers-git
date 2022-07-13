@@ -16,6 +16,9 @@
 ## Bobry 🦫🦫🦫🦫🦫🦫
 <img src="https://i.gifer.com/IHh.gif" width="300">
 
+Bobry, bobry, Kacper
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg" width="300">
 
 ## **Raccoons 🦝🦝**
 ![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
