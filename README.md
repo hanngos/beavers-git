@@ -16,6 +16,8 @@
 ## Bobry 🦫🦫🦫🦫🦫🦫
 <img src="https://i.gifer.com/IHh.gif" width="300">
 
+![](https://www.wykop.pl/cdn/c3201142/comment_lxnsonPCJljMTN05VDVZHtwVxNRngeMs,w400.jpg)
+
 
 ## **Raccoons 🦝🦝**
 ![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
