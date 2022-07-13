@@ -16,8 +16,15 @@
 ## Bobry 🦫🦫🦫🦫🦫🦫
 <img src="https://i.gifer.com/IHh.gif" width="300">
 
+
 help meeeee
+
+Bobry, bobry, Kacper
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg" width="300">
+
 
 ## **Raccoons 🦝🦝**
 ![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
 ![](https://i.pinimg.com/736x/7c/14/ae/7c14ae9a7164c6db3ba85ef8abf7a9c4.jpg)
+![](https://static.fajnyzwierzak.pl/media/uploads/media_image/original/wpis/2291/cena-szopa-pracza.jpg)
