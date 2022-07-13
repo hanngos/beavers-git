@@ -6,7 +6,7 @@
 |  Hania   |                                                                                <img src="https://jackyzhen.github.io/rust-vs-go-slides/strongGopher.png" width="200">                                                                                | 
 |   Mati   |      <img src="https://www.al.com/resizer/x0sDT9S7MVuLoZdAckv4GYrEay8=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.al.com/home/bama-media/width2048/img/entertainment_impact/photo/22643993-large.jpg" width="200">      |
 
-## Zadania:
+>## Zadania:
 >1. Forking workflow
 >2. PRka
 >3. Konflikty 
