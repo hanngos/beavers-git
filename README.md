@@ -6,9 +6,7 @@
 |  Hania   |                                                                                <img src="https://jackyzhen.github.io/rust-vs-go-slides/strongGopher.png" width="200">                                                                                | 
 |   Mati   |      <img src="https://www.al.com/resizer/x0sDT9S7MVuLoZdAckv4GYrEay8=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/image.al.com/home/bama-media/width2048/img/entertainment_impact/photo/22643993-large.jpg" width="200">      |
 
-|  Marek   |                                                                                
-<img src="https://jackyzhen.github.io/rust-vs-go-slides/strongGopher.png" 
->## Zadania:
+## Zadania:
 >1. Forking workflow
 >2. PRka
 >3. Konflikty 
@@ -16,8 +14,9 @@
 >5. May the force be with you (-f) + git log
 
 ## Bobry 🦫🦫🦫🦫🦫🦫
-<img src="https://i.gifer.com/IHh.gif" width="300">
-
+<img src="https://i.gifer.com/IHh.gif" width="300">                                                                          
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/358px-American_Beaver.jpg" width="300" 
+>
 
 ## **Raccoons 🦝🦝**
 ![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
