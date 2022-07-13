@@ -17,7 +17,7 @@
 <img src="https://i.gifer.com/IHh.gif" width="300">
 
 🦫 poteżny Bober
-![](https://media4.giphy.com/media/49iOYVoe9VwHPpqTap/giphy.gif?cid=ecf05e47jc09ijxramiydycybl7cpzlu5gqbrt00admcf6py&rid=giphy.gif&ct=g)
+![](https://memegenerator.net/img/instances/68054530.jpg)
 
 ## **Raccoons 🦝🦝**
 ![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
