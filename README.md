@@ -16,6 +16,7 @@
 ## Bobry 🦫🦫🦫🦫🦫🦫
 <img src="https://i.gifer.com/IHh.gif" width="300">
 
+🦫 poteżny Bober
 
 ## **Raccoons 🦝🦝**
 ![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
