@@ -28,6 +28,8 @@ Bobry, bobry, Kacper
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg" width="300">
 
+🦫 poteżny Bober
+![](https://memegenerator.net/img/instances/68054530.jpg)
 
 ## **Raccoons 🦝🦝**
 ![](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
