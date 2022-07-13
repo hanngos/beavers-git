@@ -14,8 +14,8 @@
 >5. May the force be with you (-f) + git log
 
 ## Bobry 🦫🦫🦫🦫🦫🦫
-<img src="https://i.gifer.com/IHh.gif" width="300">
-
+<img src="https://i.gifer.com/IHh.gif" width="300">                                                                          
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/358px-American_Beaver.jpg" width="300" >
 
 ![](https://www.wykop.pl/cdn/c3201142/comment_lxnsonPCJljMTN05VDVZHtwVxNRngeMs,w400.jpg)
 
