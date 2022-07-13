@@ -16,13 +16,9 @@
 ## Bobry 🦫🦫🦫🦫🦫🦫
 <img src="https://i.gifer.com/IHh.gif" width="300">
 
-<<<<<<< HEAD
+
 help meeeee -> 🦫
-=======
 
-
-help meeeee
->>>>>>> 020489ef5bc09b5f77816e730a1c8b5ef8fc9ac1
 
 ![](https://www.wykop.pl/cdn/c3201142/comment_lxnsonPCJljMTN05VDVZHtwVxNRngeMs,w400.jpg)
 
